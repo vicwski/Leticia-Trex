@@ -1,1 +1,3 @@
-# Leticia-Trex
+# Trex
+
+Aluna: Leticia
